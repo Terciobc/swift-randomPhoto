@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E89583C-B2FD-4284-A64F-54A5D20CDA0E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92AFCD72-4F2F-404A-AA9F-796760D824FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomImage/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "92AFCD72-4F2F-404A-AA9F-796760D824FB - 2d7062ba7448e1e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomImage.ViewController.colors.getter : Swift.Array&lt;__C.UIColor&gt;"
+                  moduleName = "RandomImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tercio/Desktop/estagio-stefanini/swift/RandomImage/RandomImage/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+               <Location
+                  uuid = "92AFCD72-4F2F-404A-AA9F-796760D824FB - e32ce5f05ce2d1a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomImage.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RandomImage.ViewController"
+                  moduleName = "RandomImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tercio/Desktop/estagio-stefanini/swift/RandomImage/RandomImage/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+               <Location
+                  uuid = "92AFCD72-4F2F-404A-AA9F-796760D824FB - a9b102ee4fe541fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomImage.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RandomImage.ViewController&gt;"
+                  moduleName = "RandomImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tercio/Desktop/estagio-stefanini/swift/RandomImage/RandomImage/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
